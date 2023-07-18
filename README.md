@@ -36,7 +36,6 @@ $ python3 -m BILSTM/train.py
 In BILSTM/data folder has a demo set of our final data
 
 Requirements for MIMIC:
-
   a) Requesting Access to MIMIC (publicly available, however with permission procedure)
       https://mimic.physionet.org/gettingstarted/access/
   b) Downloading and installing the MIMIC database according to documentation: 

@@ -6,7 +6,7 @@ This repository contains the data and code for our experiments.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-###Experimental Environment
+Experimental Environment
 Environment| Description|
 ---|---------|
 Language| Python3.7|
@@ -35,7 +35,8 @@ $ python3 -m BILSTM/train.py
 
 In BILSTM/data folder has a demo set of our final data
 
-##Requirements for MIMIC:
+Requirements for MIMIC:
+
   a) Requesting Access to MIMIC (publicly available, however with permission procedure)
       https://mimic.physionet.org/gettingstarted/access/
   b) Downloading and installing the MIMIC database according to documentation: 

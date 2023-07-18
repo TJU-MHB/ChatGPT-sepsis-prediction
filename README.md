@@ -9,8 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 Experimental Environment
 Environment| Description|
 ---|---------|
-Language| Python3.7|
-frame| Pytorch1.6|
+Language| Python3.10|
+frame| Pytorch2.0|
 IDE|Pycharm and Colab|
 Equipment| CPU and GPU|
 
